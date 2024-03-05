@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "jKwWXX4eMsdf689CfS7NBnWgyn0hLXdrLNvLk15ErTskLExa+ig7oemMgw+vIMdbCYoMZI+rOqRLOKy2JH+dYQ==",
+  "dgSpecHash": "AF4c0ZZjMJhPYcqKrQocTTCikEGXprYPOqy/SeEugwJ4yMcQePn3wTQoXhKETBlTRFEhOfkEPtos8CtMDgSRqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\Экзамен\\telegrammm\\telegrammm\\telegrammm.csproj",
+  "projectFilePath": "D:\\qwe\\TG-Bot-Rend\\telegrammm\\telegrammm.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+    "C:\\Users\\Acer\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
   ],
   "logs": []
 }
